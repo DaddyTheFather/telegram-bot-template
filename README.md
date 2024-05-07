@@ -3,7 +3,10 @@
 <h3 align="center">
   Best way to create a scalable telegram bot with analytics
 </h3>
-
+gcloud compute os-login ssh-keys add \
+   --key-file=KEY_FILE_PATH \
+   --project=PROJECT \
+   --ttl=EXPIRE_TIME
 <p align="center">
   <a href="https://github.com/donBarbos/telegram-bot-template/tags"><img alt="GitHub tag (latest SemVer)" src="https://img.shields.io/github/v/tag/donBarbos/telegram-bot-template"></a>
   <a href="https://github.com/donBarbos/telegram-bot-template/actions/workflows/linters.yml"><img src="https://img.shields.io/github/actions/workflow/status/donBarbos/telegram-bot-template/linters.yml?label=linters" alt="Linters Status"></a>
